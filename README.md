@@ -1,0 +1,2 @@
+# LAI
+Lettuce area index
